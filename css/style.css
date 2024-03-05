@@ -7,7 +7,7 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  color: #0055ab;
+  color: #272829;
 }
 
 a {
@@ -198,7 +198,7 @@ h6 {
 .nav-menu .active i,
 .nav-menu .active:focus i,
 .nav-menu li:hover>a i {
-  color: #149ddd;
+  color: #e0e7ea;
 }
 
 /* Mobile Navigation */
