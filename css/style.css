@@ -7,7 +7,7 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  color: #272829;
+  color: #0055ab;
 }
 
 a {
@@ -75,7 +75,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #1c91b5;
   overflow-y: auto;
 }
 
@@ -83,7 +83,7 @@ h6 {
   margin: 15px auto;
   display: block;
   width: 120px;
-  border: 8px solid #2c2f3f;
+  border: 8px solid #6ebdd9;
 }
 
 #header .profile h1 {
@@ -103,10 +103,10 @@ h6 {
 }
 
 #header .profile .social-links a {
-  font-size: 18px;
+  font-size: 20px;
   display: inline-block;
-  background: #212431;
-  color: #fff;
+  background: #fefff9;
+  color: #1c91b5;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
