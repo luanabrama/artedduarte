@@ -7,16 +7,16 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  color: #1c91b5;;
+  color: #73afb9;;
 }
 
 a {
-  color: #149ddd;
+  color: #46868d;
   text-decoration: none;
 }
 
 a:hover {
-  color: #37b3ed;
+  color: #7ab4b9;
   text-decoration: none;
 }
 
@@ -75,7 +75,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #1c91b5;
+  background: #00a7b0;
   overflow-y: auto;
 }
 
@@ -83,7 +83,7 @@ h6 {
   margin: 15px auto;
   display: block;
   width: 120px;
-  border: 8px solid #6ebdd9;
+  border: 8px solid #67c1bb;
 }
 
 #header .profile h1 {
@@ -106,7 +106,7 @@ h6 {
   font-size: 20px;
   display: inline-block;
   background: #fefff9;
-  color: #1c91b5;
+  color: #00a7b0;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -274,7 +274,7 @@ h6 {
 }
 
 #hero p span {
-  color: #fff;
+  color: #2e5c5b;
   padding-bottom: 4px;
   letter-spacing: 1px;
   border-bottom: 3px solid #149ddd;
@@ -321,7 +321,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #173b6c;
+  color: #00817b;
 }
 
 .section-title h2::after {
@@ -330,7 +330,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #149ddd;
+  background: #4ca591;
   bottom: 0;
   left: 0;
 }
@@ -345,7 +345,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #173b6c;
+  color: #008d9d;
 }
 
 .about .content ul {
@@ -389,7 +389,7 @@ section {
 .facts .count-box i {
   display: block;
   font-size: 44px;
-  color: #149ddd;
+  color: #86c4b7;
   float: left;
   line-height: 0;
 }
