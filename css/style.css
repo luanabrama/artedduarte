@@ -172,7 +172,7 @@ h6 {
 .nav-menu a:focus {
   display: flex;
   align-items: center;
-  color: #a8a9b4;
+  color: #aff7ee;
   padding: 12px 15px;
   margin-bottom: 8px;
   transition: 0.3s;
@@ -183,7 +183,7 @@ h6 {
 .nav-menu a:focus i {
   font-size: 24px;
   padding-right: 8px;
-  color: #6f7180;
+  color: #aff7ee;
 }
 
 .nav-menu a:hover,
@@ -274,7 +274,7 @@ h6 {
 }
 
 #hero p span {
-  color: #2e5c5b;
+  color: #2f5d5c;
   padding-bottom: 4px;
   letter-spacing: 1px;
   border-bottom: 3px solid #149ddd;
@@ -1079,7 +1079,7 @@ section {
   bottom: 0;
   width: 300px;
   z-index: 9999;
-  background: #040b14;
+  background: #77d1dd;
 }
 
 #footer .copyright {
